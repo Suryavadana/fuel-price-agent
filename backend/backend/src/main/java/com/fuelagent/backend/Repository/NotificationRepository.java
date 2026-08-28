@@ -1,2 +1,2 @@
-package com.fuelagent.backend.Repository;public interface NotificationRepository {
+package com.fuelagent.backend.repository;public interface NotificationRepository {
 }
