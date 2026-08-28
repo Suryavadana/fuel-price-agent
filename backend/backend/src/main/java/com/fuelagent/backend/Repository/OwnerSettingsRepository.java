@@ -1,2 +1,2 @@
-package com.fuelagent.backend.Repository;public interface OwnerSettingsRepository {
+package com.fuelagent.backend.repository;public interface OwnerSettingsRepository {
 }

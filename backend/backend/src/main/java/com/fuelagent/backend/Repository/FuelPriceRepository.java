@@ -1,2 +1,2 @@
-package com.fuelagent.backend.Repository;public interface FuelPriceRepository {
+package com.fuelagent.backend.repository;public interface FuelPriceRepository {
 }
